@@ -1,0 +1,9 @@
+[submodule "vmgen"]
+	path = vmgen
+	url = https://github.com/plasklab/ejstk-vmgen.git
+[submodule "ejsc"]
+	path = ejsc
+	url = https://github.com/plasklab/ejstk-ejsc.git
+[submodule "ejsvm"]
+	path = ejsvm
+	url = https://github.com/plasklab/ejstk-ejsvm.git
